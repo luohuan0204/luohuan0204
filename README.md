@@ -1,6 +1,6 @@
 # 👋 你好!
 
-我是Java后端开发者，对AI技术也有浓厚的兴趣，喜欢探索后端架构和机器学习的可能性。
+我是一名Java后端开发者，对AI技术也有浓厚的兴趣，喜欢探索后端架构和机器学习的可能性。
 
 ## 🚀 我的技能
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
