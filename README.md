@@ -22,9 +22,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luohuan0204&show_icons=true&theme=radical)
 ![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luohuan0204&layout=compact&theme=radical)
 
-## 🌱 正在学习
-- 高级Java并发编程
-- 深度学习
-
 ## 📫 联系我
 - Email: luo990204@gmail.com  
